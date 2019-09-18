@@ -1,0 +1,100 @@
+.head{
+    background-color: black;
+    color: aliceblue;
+    padding: 60px;
+    margin: 0;
+    background-image: url(image/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    image-orientation: initial;
+  
+    
+
+}
+.menu{
+    top: 0;
+    height: 60px;
+    background-color: black;
+    color: antiquewhite;
+    margin: 0%;
+   
+    
+        
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+ 
+}
+li{
+  color:black;
+  margin: auto;
+  border-block-style: circle;
+}
+.about{
+   background-color: black;
+   color: beige;
+   margin: 0;
+   height: 300px;
+
+    
+}
+.footer{
+    background-image: url(image/is.jpg);
+    text-align:center; 
+    top: 0;
+
+    
+}
+.table{
+    background-color: black;
+    color: beige;
+
+}
+.bra{
+    margin: 0;
+    padding: 50px;
+    background-color: brown;
+    color: black;
+
+}
+backgr
+und-image: url(image/second.jpg);
+     height: 500px;
+    width: 500px;
+    position: relative;
+    background-size: 100%
+}
+
+}
+.second{
+    text-size-adjust: -99999;
+    backgro 0;
+    background: url(image/login.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+}
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.inbox p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+
+}
+.inbox input{
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+
+
+
